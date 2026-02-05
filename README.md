@@ -111,19 +111,6 @@ Steps:
 
 ---
 
-## ⚠️ Medical Disclaimer
-
-> HealSmart does **not** provide medical diagnoses. The results are AI-generated suggestions meant for informational purposes only.
-
-**Always consult a qualified doctor before making medical decisions.**
-
----
-
-## 🎯 Interview-Ready Explanation (One-Liner)
-
-> "HealSmart combines multimodal AI with Retrieval-Augmented Generation to ground medical image analysis in verified literature, reducing hallucinations and improving trustworthiness."
-
----
 
 ## 🔮 Future Enhancements
 
